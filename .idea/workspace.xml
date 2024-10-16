@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="052dfb02-d005-434f-b793-d9f766db8c4e" name="Changes" comment="" />
+    <list default="true" id="052dfb02-d005-434f-b793-d9f766db8c4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Introduction to Caching.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Caching/Introduction to Caching.md" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,6 +117,7 @@
       <workItem from="1729085109633" duration="14000" />
       <workItem from="1729085126400" duration="8000" />
       <workItem from="1729085137415" duration="13000" />
+      <workItem from="1729085152966" duration="12243000" />
     </task>
     <servers />
   </component>
